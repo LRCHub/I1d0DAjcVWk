@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "3301",
+  "base_artist": "KOHYO",
+  "createdAt": "2026-02-26T08:45:56.991824Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "3301",
+      "artist": "KOHYO",
+      "has_synced": false,
+      "path": "select/pl_01_3301_KOHYO.txt"
+    }
+  ]
+}
